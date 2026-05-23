@@ -1,7 +1,8 @@
 # FilloAI-Extension
 
 A Chrome extension that fills any web form automatically using your saved profile and a locally running AI. You fill in your details once, and it handles the rest — whether it's a registration page, a survey, an application, or any other form.
-https://fillo-ai-landing-page.pages.dev/
+<br>
+Checkout: https://fillo-ai-landing-page.pages.dev/
 
 The AI part handles open-ended questions and text fields. Everything runs on your machine via Ollama. Nothing leaves your browser.
 <img width="440" height="450" alt="Fillo_AI__main" src="https://github.com/user-attachments/assets/c8044175-43d0-4406-80b0-d8a73bd6f26b" />
