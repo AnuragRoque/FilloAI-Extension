@@ -3,7 +3,8 @@
 A Chrome extension that fills any web form automatically using your saved profile and a locally running AI. You fill in your details once, and it handles the rest — whether it's a registration page, a survey, an application, or any other form.
 
 The AI part handles open-ended questions and text fields. Everything runs on your machine via Ollama. Nothing leaves your browser.
-<img width="440" height="450" alt="Fillo_AI__main" src="https://github.com/user-attachments/assets/c8044175-43d0-4406-80b0-d8a73bd6f26b" /><img width="1280" height="773" alt="Fillo_AI_custom_fill" src="https://github.com/user-attachments/assets/7ef09a52-19dc-4147-926a-e44585190ec2" />
+<img width="440" height="450" alt="Fillo_AI__main" src="https://github.com/user-attachments/assets/c8044175-43d0-4406-80b0-d8a73bd6f26b" />
+<img width="440" height="440" alt="Fillo_AI_custom_fill" src="https://github.com/user-attachments/assets/7ef09a52-19dc-4147-926a-e44585190ec2" />
 
 
 ---
