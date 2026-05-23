@@ -4,7 +4,7 @@ A Chrome extension that fills any web form automatically using your saved profil
 
 The AI part handles open-ended questions and text fields. Everything runs on your machine via Ollama. Nothing leaves your browser.
 <img width="440" height="450" alt="Fillo_AI__main" src="https://github.com/user-attachments/assets/c8044175-43d0-4406-80b0-d8a73bd6f26b" />
-<img width="440" height="440" alt="Fillo_AI_custom_fill" src="https://github.com/user-attachments/assets/7ef09a52-19dc-4147-926a-e44585190ec2" />
+<img width="440" height="640" alt="Fillo_AI_custom_fill" src="https://github.com/user-attachments/assets/7ef09a52-19dc-4147-926a-e44585190ec2" />
 
 
 ---
