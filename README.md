@@ -3,8 +3,8 @@
 A Chrome extension that fills any web form automatically using your saved profile and a locally running AI. You fill in your details once, and it handles the rest — whether it's a registration page, a survey, an application, or any other form.
 
 The AI part handles open-ended questions and text fields. Everything runs on your machine via Ollama. Nothing leaves your browser.
-![Project Screenshot](.images/Fillo_AI__main.jpeg)
-<img width="440" height="450" alt="Fillo_AI__main" src="https://github.com/user-attachments/assets/c8044175-43d0-4406-80b0-d8a73bd6f26b" />
+<img width="440" height="450" alt="Fillo_AI__main" src="https://github.com/user-attachments/assets/c8044175-43d0-4406-80b0-d8a73bd6f26b" /><img width="1280" height="773" alt="Fillo_AI_custom_fill" src="https://github.com/user-attachments/assets/7ef09a52-19dc-4147-926a-e44585190ec2" />
+
 
 ---
 
@@ -18,6 +18,9 @@ Most form fillers just paste name and email. This one goes further:
 - Lets you pre-write answers to questions you know will come up — and AI-polish them before you need them
 - Right-click any field on any page and fill just that one field, at a specific length
 - Works on any website with forms — not locked to a specific platform
+<img width="950" height="800" alt="Fillo_AI__setting" src="https://github.com/user-attachments/assets/73945826-d36c-464b-add6-8b977eb42f6a" />
+
+<img width="1280" height="589" alt="Fillo_AI_profile" src="https://github.com/user-attachments/assets/23a6fe6e-6546-4928-96c8-dc4481956246" />
 
 ---
 
