@@ -21,15 +21,8 @@ Most form fillers just paste name and email. This one goes further:
 
 ## How to install
 
-1. Clone the repo:
-   ```
-   git clone https://github.com/AnuragRoque/FormAssistant-AI-Extention.git
-   ```
-2. Go to `chrome://extensions/` in Chrome
-3. Turn on **Developer mode** (top right toggle)
-4. Click **Load unpacked**
-5. Select the cloned folder
-6. The extension icon appears in your toolbar
+1. Install from Chrome Web Store (coming soon)
+2. Contract me for Free Demo
 
 ---
 
@@ -144,24 +137,3 @@ It works on any site with standard HTML forms. Some examples:
 Your profile data is stored in `chrome.storage.local` — it never leaves your browser. The only network call the extension makes is to your local Ollama server at localhost. No cloud, no accounts, no tracking.
 
 ---
-
-## File structure
-
-```
-├── manifest.json       Chrome MV3 manifest
-├── background.js       Service worker — message relay, context menus
-├── content.js          Form detection and fill logic
-├── popup.html/css/js   Extension popup
-├── options.html/css/js Profile editor
-└── icons/
-```
-
----
-
-## Dev notes
-
-- Manifest Version: 3
-- Permissions: `storage`, `activeTab`, `scripting`, `<all_urls>`
-- Debug content script: DevTools on any page → Console
-- Debug background: `chrome://extensions/` → Service Worker → Inspect
-- After any file change: go to `chrome://extensions/` and hit the refresh icon on the extension card
