@@ -3,6 +3,7 @@
 A Chrome extension that fills any web form automatically using your saved profile and a locally running AI. You fill in your details once, and it handles the rest — whether it's a registration page, a survey, an application, or any other form.
 <br>
 Checkout: 
+Chrome Store Link: https://chromewebstore.google.com/detail/fnnlcgkmlimkadibaefjkfmpigollchk?utm_source=item-share-cb
 Demo Video: https://www.youtube.com/watch?v=3XkGIlCGFtY
 
 Website: https://fillo-ai-landing-page.pages.dev/
