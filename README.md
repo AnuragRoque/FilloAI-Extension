@@ -14,7 +14,7 @@
 
 [**Live Website**](https://fillo-ai-landing-page.pages.dev/) ·
 [**Chrome Web Store**](https://chromewebstore.google.com/detail/fnnlcgkmlimkadibaefjkfmpigollchk) ·
-[**Watch Demo**](https://www.youtube.com/watch?v=3XkGIlCGFtY) ·
+[**Watch Demo**](https://www.youtube.com/watch?v=3XkGIlCGFtY) 
 <!-- [**Roadmap**](ROADMAP.md) -->
 
 </div>
