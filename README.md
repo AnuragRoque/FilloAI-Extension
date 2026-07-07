@@ -15,7 +15,7 @@
 [**Live Website**](https://fillo-ai-landing-page.pages.dev/) ·
 [**Chrome Web Store**](https://chromewebstore.google.com/detail/fnnlcgkmlimkadibaefjkfmpigollchk) ·
 [**Watch Demo**](https://www.youtube.com/watch?v=3XkGIlCGFtY) ·
-[**Roadmap**](ROADMAP.md)
+<!-- [**Roadmap**](ROADMAP.md) -->
 
 </div>
 
@@ -208,7 +208,7 @@ flowchart LR
     P3 --> P4["Phase 4<br/>ATS packs · more browsers · i18n"]
 ```
 
-See **[ROADMAP.md](ROADMAP.md)** for the full product direction.
+<!-- See **[ROADMAP.md](ROADMAP.md)** for the full product direction. -->
 
 ---
 
